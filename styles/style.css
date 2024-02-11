@@ -49,7 +49,7 @@
   font-style: normal;
   line-height: 24.5px;
   text-underline-offset: 4.5px;
-  word-spacing: 0.7px; 
+  word-spacing: 0.7px;
 }
 
 .header__address {
@@ -96,7 +96,7 @@
   line-height: 115px;
 }
 
-.aligned-text_center{
+.aligned-text_center {
   display: block;
   align-self: center;
   line-height: 100px;
