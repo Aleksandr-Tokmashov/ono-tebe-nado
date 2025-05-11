@@ -23,5 +23,7 @@
 
 ## Установка и запуск
 - Клонируйте репозиторий: \
-`git clone git@github.com:Aleksandr-Tokmashov/ono-tebe-nado.git`
+```
+git clone git@github.com:Aleksandr-Tokmashov/ono-tebe-nado.git
+```
 - Откройте файл index.html в браузере.
